@@ -1,5 +1,4 @@
-# book_bsn02
-A repository for addenda to "Business Social Networking part 2 - human and artificial intelligence communication"
+# A repository for addenda to "Business Social Networking part 2 - human and artificial intelligence communication"
 
 The first volume of this series (published in 2013) was about blending social networks within business activities, leveraging on a couple of concepts registered with WGA in 2008, and a follow-up participation on a book, as well as on the 2009-2010 participation in Brussels to workshop on e-participation, e-inclusion, e-health etc organized by the European Union institutions (see e.g. RAND TR673).
 
